@@ -4,7 +4,7 @@ K-means Clustering Algorithm
 <p align='justify'>
 K-Means Clustering is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into different clusters. Without any previous data training, the machine’s job in this case is to organize unsorted data according to parallels, patterns, and variations.
 </p>
-## Concept
+##  Concept
 <p align='justify'>
 You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
 Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
